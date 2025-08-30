@@ -53,7 +53,7 @@ var arr = [
     { name: "horse", image: "https://images.unsplash.com/photo-1517849845537-4d257902454a?q=80&w=800&auto=format&fit=crop" },
     { name: "pizza", image: "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?q=80&w=800&auto=format&fit=crop" },
     { name: "tiger", image: "https://images.unsplash.com/photo-1590650046871-92c887180603?q=80&w=800&auto=format&fit=crop" },
-    { name: "fruits", image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?q=80&w=800&auto=format&fit=crop" }
+    { name: "fruits", image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?q=80&w=800&auto=format&fit=crop" },
     { name: "Mustafa is Great", image: "https://imgs.search.brave.com/f3djlkb9hcmjYkqwIwYgiVJ3B0gfo0JyuC3IhtIEsAI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5tYWtlYW1lbWUu/b3JnL2NyZWF0ZWQv/eWVzLWktYW0tN2Y5/NDE0Y2QyNi5qcGc" },
     { name: "Mustafa is Great", image: "https://sdmntprcentralus.oaiusercontent.com/files/00000000-1eb8-61f5-93c6-a832f1aa90a0/raw?se=2025-08-30T12%3A49%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=ebb602da-a2a7-5162-b881-1601f169e049&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-29T20%3A13%3A59Z&ske=2025-08-30T20%3A13%3A59Z&sks=b&skv=2024-08-04&sig=3KVELUCfvvUHD6EeUaLJoyP0jKnNxSkWxeh9biYpPoQ%3D" }
 ];
@@ -143,5 +143,6 @@ function enableImagePreview() {
 handleSearchFunctionality();
 showTheCards();
 enableImagePreview();
+
 
 
